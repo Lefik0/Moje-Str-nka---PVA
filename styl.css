@@ -10,10 +10,10 @@ h1 {
 }
 
 p {
-	font family: "Arial", sans-serif;
+	font-family: "Arial", sans-serif;
 }
 
-.highligth {
+.highlight {
 	background-color: #ffeb3b;
 	font-weight: bold;
 	padding: 5px;
@@ -30,5 +30,5 @@ body {
 }
 
 h1, p {
-	margin_bottom: 15px;
+	margin-bottom: 15px;
 }
